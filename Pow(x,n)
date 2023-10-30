@@ -1,0 +1,18 @@
+### here I solve this power of x raised to n is solved by recurssion and math with divide and conquer approach###
+
+class Solution {
+    public double myPow(double x, int n) {
+        if(n==0){
+            return 1;
+        }
+        double smalloutput = myPow(x,n/2);
+        if(n%2==1){
+            return smalloutput*smalloutput*x;
+        }else if(n%2==-1){
+            return smalloutput*smalloutput*(1/x);
+        }else{
+            return smalloutput*smalloutput;
+        }
+        
+    }
+}
