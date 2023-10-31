@@ -1,0 +1,17 @@
+### using recurssion,math ###
+
+import java.lang.Math;
+class Solution {
+    public int monkeyMove(int n) {
+        return (power(2,n)-2 + mod)%mod;
+    }
+    static int mod = 1000000007;
+    int power(int x, int y){
+        if(y==0) return 1;
+
+        long temp =(power(x, y/2))%mod;
+        temp = (temp*temp)%mod;
+
+        if(y%2==1) temp= (temp*x)%mod;
+        return (int)temp;
+    }
