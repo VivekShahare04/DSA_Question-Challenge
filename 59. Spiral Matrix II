@@ -1,0 +1,31 @@
+class Solution {
+    public int[][] generateMatrix(int n) {
+        int[][] matrix = new int[n][n];
+        int num = 1;
+        int sr = 0, r = n - 1, sc = 0, c = n - 1;
+
+        while (sr <= r && sc <= c) {
+            for (int i = sc; i <= c; i++) {
+                matrix[sr][i] = num++;
+            }
+            sr++;
+            for (int i = sr; i <= r; i++) {
+                matrix[i][r] = num++;
+            }
+            r--;
+            if (sr <= r) {
+                for (int i = r; i >= sc; i--) {
+                    matrix[c][i] = num++;
+                }
+                c--;
+            }
+            if (sc <= c) {
+                for (int i = c; i >= sr; i--) {
+                    matrix[i][sc] = num++;
+                }
+                sc++;
+            }
+        }
+        return matrix;
+    }
+}
