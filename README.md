@@ -96,6 +96,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0461-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
+| [0899-binary-gap](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0899-binary-gap) |
 # Math
 |  |
 | ------- |
