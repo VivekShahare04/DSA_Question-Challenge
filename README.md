@@ -11,6 +11,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
 | [3363-most-frequent-ids](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/3363-most-frequent-ids) |
 # Hash Table
 |  |
@@ -18,6 +19,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
+| [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
 | [3363-most-frequent-ids](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/3363-most-frequent-ids) |
 # Prefix Sum
 |  |
@@ -33,6 +35,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
 # Heap (Priority Queue)
 |  |
 | ------- |
@@ -59,6 +62,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
+| [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
 # Queue
 |  |
 | ------- |
