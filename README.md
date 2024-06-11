@@ -29,6 +29,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0191-number-of-1-bits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0191-number-of-1-bits) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 # Sorting
 |  |
@@ -87,3 +88,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+# Bit Manipulation
+|  |
+| ------- |
+| [0191-number-of-1-bits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0191-number-of-1-bits) |
