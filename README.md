@@ -9,6 +9,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
@@ -93,3 +94,8 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0191-number-of-1-bits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0461-hamming-distance) |
+| [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
+# Math
+|  |
+| ------- |
+| [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
