@@ -112,6 +112,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
+| [2556-convert-the-temperature](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2556-convert-the-temperature) |
 # Simulation
 |  |
 | ------- |
