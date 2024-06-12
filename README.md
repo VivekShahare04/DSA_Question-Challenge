@@ -5,6 +5,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Array
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
@@ -35,6 +36,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Sorting
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
@@ -80,6 +82,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Two Pointers
 |  |
 | ------- |
+| [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 # Tree
 |  |
