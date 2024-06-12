@@ -14,6 +14,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
+| [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
 | [2048-build-array-from-permutation](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -25,6 +26,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
+| [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
 | [3363-most-frequent-ids](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/3363-most-frequent-ids) |
 # Prefix Sum
 |  |
@@ -70,6 +72,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
+| [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
 # Queue
 |  |
 | ------- |
@@ -107,6 +110,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
+| [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
 # Simulation
 |  |
 | ------- |
