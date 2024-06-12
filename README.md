@@ -16,6 +16,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
 | [1580-shuffle-the-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2048-build-array-from-permutation](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2058-concatenation-of-array) |
@@ -51,6 +52,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Heap (Priority Queue)
@@ -98,6 +100,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Tree
 |  |
@@ -140,4 +143,5 @@ In this repository I add my solved regular basis coding question of DSA
 # Greedy
 |  |
 | ------- |
+| [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2767-maximum-sum-with-exactly-k-elements) |
