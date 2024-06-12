@@ -124,6 +124,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
+| [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
 | [2556-convert-the-temperature](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2556-convert-the-temperature) |
 # Simulation
@@ -145,5 +146,6 @@ In this repository I add my solved regular basis coding question of DSA
 # Greedy
 |  |
 | ------- |
+| [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2767-maximum-sum-with-exactly-k-elements) |
