@@ -21,6 +21,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [2048-build-array-from-permutation](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2836-neither-minimum-nor-maximum) |
@@ -55,6 +56,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2836-neither-minimum-nor-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Heap (Priority Queue)
@@ -148,4 +150,5 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2767-maximum-sum-with-exactly-k-elements) |
