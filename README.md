@@ -12,6 +12,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
@@ -35,6 +36,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0782-jewels-and-stones) |
+| [1001-n-repeated-element-in-size-2n-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
