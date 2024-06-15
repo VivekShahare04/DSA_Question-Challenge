@@ -159,6 +159,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0782-jewels-and-stones](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0782-jewels-and-stones) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
 # Binary Search
@@ -174,6 +175,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
+| [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2767-maximum-sum-with-exactly-k-elements) |
