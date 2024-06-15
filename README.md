@@ -19,6 +19,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
 | [1580-shuffle-the-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
@@ -147,6 +148,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
@@ -174,6 +176,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0561-array-partition) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0982-minimum-increment-to-make-array-unique) |
+| [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1829-maximum-units-on-a-truck](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
