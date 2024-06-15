@@ -8,6 +8,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0137-single-number-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0137-single-number-ii) |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -142,6 +143,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Bit Manipulation
 |  |
 | ------- |
+| [0137-single-number-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0137-single-number-ii) |
 | [0191-number-of-1-bits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0191-number-of-1-bits) |
 | [0461-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0461-hamming-distance) |
 | [0476-number-complement](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0476-number-complement) |
