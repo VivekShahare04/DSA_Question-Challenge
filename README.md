@@ -32,6 +32,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2519-find-the-original-array-of-prefix-xor) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2767-maximum-sum-with-exactly-k-elements) |
 | [2836-neither-minimum-nor-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2836-neither-minimum-nor-maximum) |
@@ -146,6 +147,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0476-number-complement](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0476-number-complement) |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
 | [0899-binary-gap](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0899-binary-gap) |
+| [2519-find-the-original-array-of-prefix-xor](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2519-find-the-original-array-of-prefix-xor) |
 # Math
 |  |
 | ------- |
