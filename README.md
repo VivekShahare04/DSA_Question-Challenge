@@ -68,6 +68,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2042-maximum-product-difference-between-two-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2042-maximum-product-difference-between-two-pairs) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2836-neither-minimum-nor-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2836-neither-minimum-nor-maximum) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Heap (Priority Queue)
@@ -142,6 +143,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
 | [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2556-convert-the-temperature](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2556-convert-the-temperature) |
 # Simulation
 |  |
@@ -167,4 +169,5 @@ In this repository I add my solved regular basis coding question of DSA
 | [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2148-minimum-number-of-moves-to-seat-everyone](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2148-minimum-number-of-moves-to-seat-everyone) |
+| [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2767-maximum-sum-with-exactly-k-elements) |
