@@ -12,6 +12,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
+| [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1001-n-repeated-element-in-size-2n-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1001-n-repeated-element-in-size-2n-array) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
@@ -59,6 +60,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1137-height-checker](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1137-height-checker) |
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
@@ -73,6 +75,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
+| [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
 | [3363-most-frequent-ids](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/3363-most-frequent-ids) |
 # Bucket Sort
 |  |
@@ -159,6 +162,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Greedy
 |  |
 | ------- |
+| [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0982-minimum-increment-to-make-array-unique) |
 | [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
