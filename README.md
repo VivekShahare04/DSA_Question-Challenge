@@ -10,6 +10,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0137-single-number-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0137-single-number-ii) |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
+| [0330-patching-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0330-patching-array) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
@@ -179,6 +180,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Greedy
 |  |
 | ------- |
+| [0330-patching-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0561-array-partition) |
 | [0982-minimum-increment-to-make-array-unique](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0982-minimum-increment-to-make-array-unique) |
