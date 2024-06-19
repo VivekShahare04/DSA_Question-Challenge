@@ -5,6 +5,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Array
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -148,6 +149,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Two Pointers
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0011-container-with-most-water) |
 | [0027-remove-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
@@ -209,6 +211,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Greedy
 |  |
 | ------- |
+| [0011-container-with-most-water](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0011-container-with-most-water) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
