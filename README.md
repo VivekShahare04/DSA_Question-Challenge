@@ -13,6 +13,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0169-majority-element) |
+| [0238-product-of-array-except-self](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0274-h-index) |
 | [0330-patching-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0330-patching-array) |
@@ -63,6 +64,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Prefix Sum
 |  |
 | ------- |
+| [0238-product-of-array-except-self](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0238-product-of-array-except-self) |
 | [1016-subarray-sums-divisible-by-k](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1016-subarray-sums-divisible-by-k) |
 # Divide and Conquer
 |  |
