@@ -5,6 +5,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Array
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0088-merge-sorted-array) |
@@ -133,6 +134,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0088-merge-sorted-array) |
