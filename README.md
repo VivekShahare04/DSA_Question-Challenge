@@ -10,6 +10,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0088-merge-sorted-array) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0169-majority-element) |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
@@ -192,6 +193,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Greedy
 |  |
 | ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0330-patching-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0330-patching-array) |
 | [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
 | [0561-array-partition](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0561-array-partition) |
@@ -207,3 +209,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [2264-minimum-sum-of-four-digit-number-after-splitting-digits](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2264-minimum-sum-of-four-digit-number-after-splitting-digits) |
 | [2706-minimum-score-by-changing-two-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2706-minimum-score-by-changing-two-elements) |
 | [2767-maximum-sum-with-exactly-k-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2767-maximum-sum-with-exactly-k-elements) |
+# Dynamic Programming
+|  |
+| ------- |
+| [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
