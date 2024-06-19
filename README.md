@@ -13,6 +13,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0137-single-number-ii) |
 | [0169-majority-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0238-product-of-array-except-self) |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0274-h-index](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0274-h-index) |
@@ -149,6 +150,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0088-merge-sorted-array) |
+| [0189-rotate-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0189-rotate-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Tree
@@ -172,6 +174,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Math
 |  |
 | ------- |
+| [0189-rotate-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0189-rotate-array) |
 | [0477-total-hamming-distance](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0477-total-hamming-distance) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1448-maximum-69-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1448-maximum-69-number) |
