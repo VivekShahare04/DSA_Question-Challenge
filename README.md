@@ -13,6 +13,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0137-single-number-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0137-single-number-ii) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0169-majority-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0189-rotate-array) |
 | [0238-product-of-array-except-self](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0238-product-of-array-except-self) |
@@ -152,6 +153,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0088-merge-sorted-array) |
 | [0125-valid-palindrome](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0125-valid-palindrome) |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0189-rotate-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0189-rotate-array) |
 | [0392-is-subsequence](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0392-is-subsequence) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -202,6 +204,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Binary Search
 |  |
 | ------- |
+| [0167-two-sum-ii-input-array-is-sorted](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
 # Greedy
 |  |
