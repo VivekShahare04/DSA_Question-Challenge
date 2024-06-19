@@ -150,6 +150,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0075-sort-colors](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0075-sort-colors) |
 | [0080-remove-duplicates-from-sorted-array-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0080-remove-duplicates-from-sorted-array-ii) |
 | [0088-merge-sorted-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0189-rotate-array) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
 | [2917-count-pairs-whose-sum-is-less-than-target](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2917-count-pairs-whose-sum-is-less-than-target) |
@@ -190,6 +191,7 @@ In this repository I add my solved regular basis coding question of DSA
 # String
 |  |
 | ------- |
+| [0125-valid-palindrome](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0125-valid-palindrome) |
 | [0782-jewels-and-stones](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0782-jewels-and-stones) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
