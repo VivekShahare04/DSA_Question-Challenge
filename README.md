@@ -57,6 +57,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0105-construct-binary-tree-from-preorder-and-inorder-traversal](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0105-construct-binary-tree-from-preorder-and-inorder-traversal) |
 | [0169-majority-element](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0169-majority-element) |
+| [0290-word-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0290-word-pattern) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0782-jewels-and-stones](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0782-jewels-and-stones) |
@@ -201,6 +202,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0125-valid-palindrome) |
+| [0290-word-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0782-jewels-and-stones) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
