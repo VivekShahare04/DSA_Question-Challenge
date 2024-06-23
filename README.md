@@ -35,6 +35,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1217-relative-sort-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1217-relative-sort-array) |
 | [1329-minimum-cost-to-move-chips-to-the-same-position](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1329-minimum-cost-to-move-chips-to-the-same-position) |
 | [1482-how-many-numbers-are-smaller-than-the-current-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1482-how-many-numbers-are-smaller-than-the-current-number) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
 | [1829-maximum-units-on-a-truck](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1829-maximum-units-on-a-truck) |
@@ -111,6 +112,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
 | [0347-top-k-frequent-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0347-top-k-frequent-elements) |
 | [0502-ipo](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0502-ipo) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3363-most-frequent-ids](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/3363-most-frequent-ids) |
 # Bucket Sort
 |  |
@@ -127,6 +129,7 @@ In this repository I add my solved regular basis coding question of DSA
 # Ordered Set
 |  |
 | ------- |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [3363-most-frequent-ids](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/3363-most-frequent-ids) |
 # Counting Sort
 |  |
@@ -143,15 +146,18 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Sliding Window
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Monotonic Queue
 |  |
 | ------- |
 | [0239-sliding-window-maximum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0239-sliding-window-maximum) |
+| [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 # Two Pointers
 |  |
 | ------- |
