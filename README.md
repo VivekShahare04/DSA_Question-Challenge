@@ -249,3 +249,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0122-best-time-to-buy-and-sell-stock-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0122-best-time-to-buy-and-sell-stock-ii) |
 | [0392-is-subsequence](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0392-is-subsequence) |
+# Graph
+|  |
+| ------- |
+| [1916-find-center-of-star-graph](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1916-find-center-of-star-graph) |
