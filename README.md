@@ -210,6 +210,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [2048-build-array-from-permutation](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2058-concatenation-of-array) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 # String
 |  |
 | ------- |
@@ -222,6 +223,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
 | [2219-maximum-number-of-words-found-in-sentences](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2219-maximum-number-of-words-found-in-sentences) |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
 # Binary Search
 |  |
 | ------- |
@@ -258,3 +260,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [1916-find-center-of-star-graph](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1916-find-center-of-star-graph) |
+# Stack
+|  |
+| ------- |
+| [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
