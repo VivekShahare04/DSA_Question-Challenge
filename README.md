@@ -41,6 +41,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1549-longest-continuous-subarray-with-absolute-diff-less-than-or-equal-to-limit) |
 | [1580-shuffle-the-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1580-shuffle-the-array) |
 | [1635-number-of-good-pairs](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1635-number-of-good-pairs) |
+| [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
 | [1829-maximum-units-on-a-truck](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1829-maximum-units-on-a-truck) |
 | [1938-minimum-operations-to-make-the-array-increasing](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1938-minimum-operations-to-make-the-array-increasing) |
 | [1988-minimize-maximum-pair-sum-in-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1988-minimize-maximum-pair-sum-in-array) |
@@ -220,6 +221,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0290-word-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0290-word-pattern) |
 | [0392-is-subsequence](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0392-is-subsequence) |
 | [0782-jewels-and-stones](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0782-jewels-and-stones) |
+| [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2088-minimum-time-to-type-word-using-special-typewriter](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2088-minimum-time-to-type-word-using-special-typewriter) |
 | [2137-final-value-of-variable-after-performing-operations](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2137-final-value-of-variable-after-performing-operations) |
@@ -264,5 +266,6 @@ In this repository I add my solved regular basis coding question of DSA
 # Stack
 |  |
 | ------- |
+| [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
