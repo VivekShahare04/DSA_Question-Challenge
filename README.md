@@ -287,4 +287,12 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0045-jump-game-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
+## String
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
+## Stack
+|  |
+| ------- |
+| [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
 <!---LeetCode Topics End-->
