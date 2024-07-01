@@ -269,3 +269,10 @@ In this repository I add my solved regular basis coding question of DSA
 | [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
 | [1737-maximum-nesting-depth-of-the-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1737-maximum-nesting-depth-of-the-parentheses) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2800-minimum-string-length-after-removing-substrings) |
+<!---LeetCode Topics Start-->
+# LeetCode Topics
+## Array
+|  |
+| ------- |
+| [1293-three-consecutive-odds](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1293-three-consecutive-odds) |
+<!---LeetCode Topics End-->
