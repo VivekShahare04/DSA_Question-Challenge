@@ -276,12 +276,14 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0045-jump-game-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
+| [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1293-three-consecutive-odds](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1293-three-consecutive-odds) |
 ## Dynamic Programming
 |  |
 | ------- |
 | [0045-jump-game-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
+| [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
 | ------- |
@@ -311,4 +313,16 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
+## Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
+## Monotonic Queue
+|  |
+| ------- |
+| [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 <!---LeetCode Topics End-->
