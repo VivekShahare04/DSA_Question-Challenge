@@ -274,5 +274,14 @@ In this repository I add my solved regular basis coding question of DSA
 ## Array
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
 | [1293-three-consecutive-odds](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1293-three-consecutive-odds) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
+## Greedy
+|  |
+| ------- |
+| [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
 <!---LeetCode Topics End-->
