@@ -277,6 +277,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0045-jump-game-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1293-three-consecutive-odds](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1293-three-consecutive-odds) |
 ## Dynamic Programming
@@ -294,6 +295,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
+| [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 ## Stack
 |  |
 | ------- |
@@ -331,6 +333,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 ## Two Pointers
 |  |
 | ------- |
