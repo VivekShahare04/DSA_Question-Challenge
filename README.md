@@ -357,9 +357,18 @@ In this repository I add my solved regular basis coding question of DSA
 ## Math
 |  |
 | ------- |
+| [0292-nim-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0292-nim-game) |
 | [0441-arranging-coins](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0441-arranging-coins) |
 ## String Matching
 |  |
 | ------- |
 | [0459-repeated-substring-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0459-repeated-substring-pattern) |
+## Brainteaser
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0292-nim-game) |
+## Game Theory
+|  |
+| ------- |
+| [0292-nim-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0292-nim-game) |
 <!---LeetCode Topics End-->
