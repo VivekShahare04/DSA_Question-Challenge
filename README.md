@@ -316,6 +316,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0441-arranging-coins](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0441-arranging-coins) |
 ## Binary Tree
 |  |
 | ------- |
@@ -348,4 +349,8 @@ In this repository I add my solved regular basis coding question of DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+## Math
+|  |
+| ------- |
+| [0441-arranging-coins](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0441-arranging-coins) |
 <!---LeetCode Topics End-->
