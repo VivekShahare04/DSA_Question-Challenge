@@ -279,6 +279,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0455-assign-cookies) |
+| [0495-teemo-attacking](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0495-teemo-attacking) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
@@ -381,5 +382,6 @@ In this repository I add my solved regular basis coding question of DSA
 ## Simulation
 |  |
 | ------- |
+| [0495-teemo-attacking](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0495-teemo-attacking) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
