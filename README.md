@@ -373,4 +373,12 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0292-nim-game) |
+## Linked List
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
+## Simulation
+|  |
+| ------- |
+| [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 <!---LeetCode Topics End-->
