@@ -305,10 +305,12 @@ In this repository I add my solved regular basis coding question of DSA
 | [0459-repeated-substring-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0520-detect-capital) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
+| [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 ## Tree
 |  |
 | ------- |
