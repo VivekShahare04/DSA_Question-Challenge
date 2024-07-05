@@ -386,6 +386,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
 |  |
