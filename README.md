@@ -370,6 +370,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0492-construct-the-rectangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0507-perfect-number) |
+| [2645-pass-the-pillow](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2645-pass-the-pillow) |
 ## String Matching
 |  |
 | ------- |
@@ -393,4 +394,5 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0495-teemo-attacking](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0495-teemo-attacking) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
+| [2645-pass-the-pillow](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2645-pass-the-pillow) |
 <!---LeetCode Topics End-->
