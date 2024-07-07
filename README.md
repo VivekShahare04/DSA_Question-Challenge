@@ -290,6 +290,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0045-jump-game-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
+| [0131-palindrome-partitioning](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0131-palindrome-partitioning) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -302,6 +303,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
+| [0131-palindrome-partitioning](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0131-palindrome-partitioning) |
 | [0459-repeated-substring-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0459-repeated-substring-pattern) |
 | [0520-detect-capital](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0520-detect-capital) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
@@ -397,4 +399,8 @@ In this repository I add my solved regular basis coding question of DSA
 | [1642-water-bottles](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1642-water-bottles) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2645-pass-the-pillow) |
+## Backtracking
+|  |
+| ------- |
+| [0131-palindrome-partitioning](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0131-palindrome-partitioning) |
 <!---LeetCode Topics End-->
