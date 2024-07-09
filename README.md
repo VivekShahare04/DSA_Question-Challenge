@@ -285,6 +285,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1293-three-consecutive-odds) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1803-average-waiting-time](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Dynamic Programming
 |  |
@@ -400,6 +401,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0495-teemo-attacking](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0495-teemo-attacking) |
 | [1642-water-bottles](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1642-water-bottles) |
+| [1803-average-waiting-time](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 | [2645-pass-the-pillow](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2645-pass-the-pillow) |
