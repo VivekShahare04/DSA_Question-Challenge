@@ -280,6 +280,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0455-assign-cookies) |
+| [0474-ones-and-zeroes](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0474-ones-and-zeroes) |
 | [0495-teemo-attacking](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0495-teemo-attacking) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
@@ -296,6 +297,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0131-palindrome-partitioning) |
+| [0474-ones-and-zeroes](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0474-ones-and-zeroes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
 |  |
@@ -310,6 +312,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
 | [0131-palindrome-partitioning](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0131-palindrome-partitioning) |
 | [0459-repeated-substring-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0459-repeated-substring-pattern) |
+| [0474-ones-and-zeroes](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0520-detect-capital) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
