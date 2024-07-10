@@ -277,6 +277,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0045-jump-game-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0120-triangle) |
+| [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0455-assign-cookies) |
@@ -297,6 +298,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0120-triangle) |
 | [0131-palindrome-partitioning](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0131-palindrome-partitioning) |
+| [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
 | [0474-ones-and-zeroes](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0474-ones-and-zeroes) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 ## Greedy
@@ -421,4 +423,8 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+## Breadth-First Search
+|  |
+| ------- |
+| [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
 <!---LeetCode Topics End-->
