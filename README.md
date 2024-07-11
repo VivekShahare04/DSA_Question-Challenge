@@ -318,12 +318,14 @@ In this repository I add my solved regular basis coding question of DSA
 | [0520-detect-capital](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0520-detect-capital) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
 ## Stack
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
+| [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
 ## Tree
 |  |
