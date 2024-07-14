@@ -317,6 +317,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0459-repeated-substring-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0459-repeated-substring-pattern) |
 | [0474-ones-and-zeroes](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0474-ones-and-zeroes) |
 | [0520-detect-capital](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0520-detect-capital) |
+| [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -325,6 +326,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
+| [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
 | [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
@@ -365,6 +367,7 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
+| [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
 ## Two Pointers
@@ -379,6 +382,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0455-assign-cookies) |
+| [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [2846-robot-collisions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2846-robot-collisions) |
