@@ -291,6 +291,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2846-robot-collisions) |
 ## Dynamic Programming
 |  |
@@ -335,6 +336,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
@@ -349,6 +351,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
 |  |
 | ------- |
@@ -370,6 +373,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
+| [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
 | ------- |
