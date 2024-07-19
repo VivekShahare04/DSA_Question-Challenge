@@ -287,6 +287,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1293-three-consecutive-odds](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1293-three-consecutive-odds) |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
 | [1803-average-waiting-time](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1803-average-waiting-time) |
@@ -441,4 +442,8 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
+## Matrix
+|  |
+| ------- |
+| [1496-lucky-numbers-in-a-matrix](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 <!---LeetCode Topics End-->
