@@ -336,11 +336,13 @@ In this repository I add my solved regular basis coding question of DSA
 ## Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 ## Binary Search Tree
 |  |
@@ -351,6 +353,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Binary Tree
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
@@ -417,6 +420,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Linked List
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
@@ -441,6 +445,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Breadth-First Search
 |  |
 | ------- |
+| [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
 ## Matrix
 |  |
