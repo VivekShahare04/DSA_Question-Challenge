@@ -346,6 +346,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0365-water-and-jug-problem](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0365-water-and-jug-problem) |
 ## Binary Search Tree
 |  |
 | ------- |
@@ -401,6 +402,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0292-nim-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0292-nim-game) |
+| [0365-water-and-jug-problem](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0365-water-and-jug-problem) |
 | [0441-arranging-coins](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0441-arranging-coins) |
 | [0492-construct-the-rectangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0504-base-7) |
@@ -452,6 +454,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
+| [0365-water-and-jug-problem](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0365-water-and-jug-problem) |
 ## Matrix
 |  |
 | ------- |
