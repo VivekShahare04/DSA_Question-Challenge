@@ -277,6 +277,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0045-jump-game-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0045-jump-game-ii) |
 | [0055-jump-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0055-jump-game) |
 | [0120-triangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0120-triangle) |
+| [0287-find-the-duplicate-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0414-third-maximum-number) |
@@ -352,6 +353,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
+| [0287-find-the-duplicate-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0441-arranging-coins) |
 ## Binary Tree
@@ -388,6 +390,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
+| [0287-find-the-duplicate-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0455-assign-cookies) |
 ## Sorting
@@ -469,4 +472,8 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0208-implement-trie-prefix-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0208-implement-trie-prefix-tree) |
+## Bit Manipulation
+|  |
+| ------- |
+| [0287-find-the-duplicate-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0287-find-the-duplicate-number) |
 <!---LeetCode Topics End-->
