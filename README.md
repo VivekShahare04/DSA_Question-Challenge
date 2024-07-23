@@ -291,6 +291,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1496-lucky-numbers-in-a-matrix](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1496-lucky-numbers-in-a-matrix) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
 | [1720-crawler-log-folder](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1720-crawler-log-folder) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [1803-average-waiting-time](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1803-average-waiting-time) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -385,6 +386,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Two Pointers
 |  |
@@ -402,6 +404,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1616-minimum-difference-between-largest-and-smallest-value-in-three-moves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1616-minimum-difference-between-largest-and-smallest-value-in-three-moves) |
+| [1741-sort-array-by-increasing-frequency](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2846-robot-collisions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2846-robot-collisions) |
 ## Math
 |  |
