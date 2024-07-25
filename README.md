@@ -298,6 +298,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2846-robot-collisions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2846-robot-collisions) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -393,6 +394,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
 | [1741-sort-array-by-increasing-frequency](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1741-sort-array-by-increasing-frequency) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
+| [3420-find-occurrences-of-an-element-in-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/3420-find-occurrences-of-an-element-in-an-array) |
 ## Two Pointers
 |  |
 | ------- |
