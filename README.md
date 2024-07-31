@@ -319,6 +319,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## String
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0131-palindrome-partitioning) |
@@ -487,6 +488,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Trie
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0014-longest-common-prefix) |
 | [0208-implement-trie-prefix-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 ## Bit Manipulation
 |  |
