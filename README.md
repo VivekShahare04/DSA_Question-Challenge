@@ -320,6 +320,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0131-palindrome-partitioning](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0131-palindrome-partitioning) |
 | [0208-implement-trie-prefix-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0459-repeated-substring-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0459-repeated-substring-pattern) |
@@ -398,6 +399,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -431,6 +433,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## String Matching
 |  |
 | ------- |
+| [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0459-repeated-substring-pattern](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0459-repeated-substring-pattern) |
 ## Brainteaser
 |  |
