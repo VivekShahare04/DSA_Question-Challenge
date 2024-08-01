@@ -320,6 +320,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0012-integer-to-roman) |
 | [0014-longest-common-prefix](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0014-longest-common-prefix) |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
@@ -389,6 +390,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Hash Table
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0012-integer-to-roman) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0208-implement-trie-prefix-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0208-implement-trie-prefix-tree) |
 | [0349-intersection-of-two-arrays](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0349-intersection-of-two-arrays) |
@@ -425,6 +427,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0012-integer-to-roman) |
 | [0292-nim-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0365-water-and-jug-problem) |
 | [0441-arranging-coins](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0441-arranging-coins) |
