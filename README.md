@@ -285,6 +285,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0455-assign-cookies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0455-assign-cookies) |
 | [0474-ones-and-zeroes](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0474-ones-and-zeroes) |
 | [0495-teemo-attacking](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0495-teemo-attacking) |
+| [0658-find-k-closest-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [0948-sort-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0948-sort-an-array) |
 | [0954-maximum-sum-circular-subarray](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0954-maximum-sum-circular-subarray) |
@@ -366,6 +367,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0349-intersection-of-two-arrays](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0441-arranging-coins](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0441-arranging-coins) |
+| [0658-find-k-closest-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0658-find-k-closest-elements) |
 ## Binary Tree
 |  |
 | ------- |
@@ -410,6 +412,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0349-intersection-of-two-arrays](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0680-valid-palindrome-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0680-valid-palindrome-ii) |
 ## Sorting
 |  |
@@ -418,6 +421,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0414-third-maximum-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0414-third-maximum-number) |
 | [0455-assign-cookies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0455-assign-cookies) |
+| [0658-find-k-closest-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [0948-sort-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0948-sort-an-array) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
@@ -503,6 +507,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Heap (Priority Queue)
 |  |
 | ------- |
+| [0658-find-k-closest-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0948-sort-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0948-sort-an-array) |
 ## Merge Sort
 |  |
@@ -520,4 +525,8 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0948-sort-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0948-sort-an-array) |
+## Sliding Window
+|  |
+| ------- |
+| [0658-find-k-closest-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0658-find-k-closest-elements) |
 <!---LeetCode Topics End-->
