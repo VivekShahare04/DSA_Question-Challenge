@@ -439,6 +439,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0492-construct-the-rectangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0507-perfect-number) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 | [2645-pass-the-pillow](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2645-pass-the-pillow) |
@@ -462,6 +463,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0908-middle-of-the-linked-list](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0908-middle-of-the-linked-list) |
+| [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
 | [2299-merge-nodes-in-between-zeros](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2299-merge-nodes-in-between-zeros) |
 ## Simulation
