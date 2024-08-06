@@ -459,6 +459,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Linked List
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
@@ -484,6 +485,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0206-reverse-linked-list](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0206-reverse-linked-list) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
 ## Breadth-First Search
