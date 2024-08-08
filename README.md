@@ -407,6 +407,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Two Pointers
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0287-find-the-duplicate-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0287-find-the-duplicate-number) |
@@ -461,6 +462,7 @@ In this repository I add my solved regular basis coding question of DSA
 ## Linked List
 |  |
 | ------- |
+| [0019-remove-nth-node-from-end-of-list](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0019-remove-nth-node-from-end-of-list) |
 | [0021-merge-two-sorted-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0021-merge-two-sorted-lists) |
 | [0092-reverse-linked-list-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0092-reverse-linked-list-ii) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
