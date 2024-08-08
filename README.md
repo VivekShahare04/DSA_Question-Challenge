@@ -340,6 +340,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0020-valid-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0020-valid-parentheses) |
+| [0445-add-two-numbers-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0445-add-two-numbers-ii) |
 | [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [1128-remove-all-adjacent-duplicates-in-string](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1128-remove-all-adjacent-duplicates-in-string) |
 | [1298-reverse-substrings-between-each-pair-of-parentheses](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1298-reverse-substrings-between-each-pair-of-parentheses) |
@@ -436,6 +437,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0292-nim-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0292-nim-game) |
 | [0365-water-and-jug-problem](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0365-water-and-jug-problem) |
 | [0441-arranging-coins](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0441-arranging-coins) |
+| [0445-add-two-numbers-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0445-add-two-numbers-ii) |
 | [0492-construct-the-rectangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0507-perfect-number) |
@@ -464,6 +466,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0160-intersection-of-two-linked-lists](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0160-intersection-of-two-linked-lists) |
 | [0206-reverse-linked-list](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0206-reverse-linked-list) |
+| [0445-add-two-numbers-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0445-add-two-numbers-ii) |
 | [0908-middle-of-the-linked-list](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0908-middle-of-the-linked-list) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2182-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
