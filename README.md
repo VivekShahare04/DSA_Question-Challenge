@@ -358,6 +358,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -367,6 +368,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -386,6 +388,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
@@ -515,6 +518,7 @@ In this repository I add my solved regular basis coding question of DSA
 |  |
 | ------- |
 | [0101-symmetric-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0101-symmetric-tree) |
+| [0104-maximum-depth-of-binary-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0116-populating-next-right-pointers-in-each-node](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0116-populating-next-right-pointers-in-each-node) |
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
