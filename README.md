@@ -365,6 +365,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Depth-First Search
@@ -379,6 +380,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
 | [0365-water-and-jug-problem](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0365-water-and-jug-problem) |
+| [0404-sum-of-left-leaves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0975-range-sum-of-bst) |
 ## Binary Search Tree
 |  |
@@ -402,6 +404,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0230-kth-smallest-element-in-a-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0230-kth-smallest-element-in-a-bst) |
 | [0235-lowest-common-ancestor-of-a-binary-search-tree](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0235-lowest-common-ancestor-of-a-binary-search-tree) |
+| [0404-sum-of-left-leaves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0404-sum-of-left-leaves) |
 | [0975-range-sum-of-bst](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0975-range-sum-of-bst) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/2306-create-binary-tree-from-descriptions) |
 ## Divide and Conquer
@@ -535,6 +538,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0117-populating-next-right-pointers-in-each-node-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0117-populating-next-right-pointers-in-each-node-ii) |
 | [0322-coin-change](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0322-coin-change) |
 | [0365-water-and-jug-problem](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0365-water-and-jug-problem) |
+| [0404-sum-of-left-leaves](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0404-sum-of-left-leaves) |
 ## Matrix
 |  |
 | ------- |
