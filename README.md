@@ -598,4 +598,5 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0620-not-boring-movies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0620-not-boring-movies) |
 | [1161-project-employees-i](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1161-project-employees-i) |
+| [1811-fix-names-in-a-table](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1811-fix-names-in-a-table) |
 <!---LeetCode Topics End-->
