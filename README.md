@@ -593,4 +593,8 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0943-sum-of-subarray-minimums) |
 | [1228-minimum-cost-tree-from-leaf-values](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1228-minimum-cost-tree-from-leaf-values) |
+## Database
+|  |
+| ------- |
+| [0620-not-boring-movies](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0620-not-boring-movies) |
 <!---LeetCode Topics End-->
