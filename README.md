@@ -287,6 +287,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0474-ones-and-zeroes](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0474-ones-and-zeroes) |
 | [0495-teemo-attacking](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0495-teemo-attacking) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0658-find-k-closest-elements](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0658-find-k-closest-elements) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [0943-sum-of-subarray-minimums](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0943-sum-of-subarray-minimums) |
@@ -443,6 +444,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0349-intersection-of-two-arrays](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0349-intersection-of-two-arrays) |
 | [0350-intersection-of-two-arrays-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0350-intersection-of-two-arrays-ii) |
 | [0522-longest-uncommon-subsequence-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0522-longest-uncommon-subsequence-ii) |
+| [0523-continuous-subarray-sum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [0726-number-of-atoms](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0726-number-of-atoms) |
 | [0822-unique-morse-code-words](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0822-unique-morse-code-words) |
 | [1256-rank-transform-of-an-array](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1256-rank-transform-of-an-array) |
@@ -490,6 +492,7 @@ In this repository I add my solved regular basis coding question of DSA
 | [0492-construct-the-rectangle](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0492-construct-the-rectangle) |
 | [0504-base-7](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0504-base-7) |
 | [0507-perfect-number](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0507-perfect-number) |
+| [0523-continuous-subarray-sum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0523-continuous-subarray-sum) |
 | [1411-convert-binary-number-in-a-linked-list-to-integer](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1411-convert-binary-number-in-a-linked-list-to-integer) |
 | [1642-water-bottles](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1642-water-bottles) |
 | [1951-find-the-winner-of-the-circular-game](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/1951-find-the-winner-of-the-circular-game) |
@@ -622,4 +625,8 @@ In this repository I add my solved regular basis coding question of DSA
 | ------- |
 | [0207-course-schedule](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0207-course-schedule) |
 | [0210-course-schedule-ii](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0210-course-schedule-ii) |
+## Prefix Sum
+|  |
+| ------- |
+| [0523-continuous-subarray-sum](https://github.com/VivekShahare04/DSA_Question-Challenge/tree/master/0523-continuous-subarray-sum) |
 <!---LeetCode Topics End-->
